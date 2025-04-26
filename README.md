@@ -1,5 +1,7 @@
 # GCD Extended Algorithm: Finding Bézout coefficients
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 GCD Extended Algorithm: Finding Bézout coefficients
 
 The GCD algorithm can be extended so that we can find the number of times that each number is multiplied to give the GCD.
